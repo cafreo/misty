@@ -1,0 +1,10 @@
+{
+    "type" : "IconPack",
+    "name" : "Misty",
+    "author" : "PUPPY MEDIA",
+    "repository" : "https://github.com/whosthispuppy/misty",
+    "packageId" : "puppy.mistyiconpack",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 32,
+    "dll": ""
+  }
